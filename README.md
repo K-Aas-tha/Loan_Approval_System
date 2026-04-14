@@ -28,6 +28,7 @@ This project is a machine learning pipeline for predicting loan approval based o
    ```bash
    python loan_Approval.py
    ```
+5.Screenshots of terminal included after evaluation.
 
 ## Flow Diagram
 See `flow.drawio.svg` for a visual representation of the pipeline.
